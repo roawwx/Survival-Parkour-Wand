@@ -17,7 +17,6 @@ Falling ends the run, but as long as you stay up, the path will keep growing! �
   - Land two blocks ahead → spawns two new platforms.
 - 🎆 **Visual effects**:
   - Particles on each new platform.
-  - Optional sound hook ready.
 - 🧹 **Automatic cleanup** of placed blocks when the run ends.
 - 📊 On falling, the chat displays:
   - Time survived.
