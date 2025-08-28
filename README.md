@@ -9,7 +9,7 @@ Falling ends the run, but as long as you stay up, the path will keep growing! �
 
 ## ✨ Features
 
-- 🔮 **Craftable Parkour Wand** (see recipe below).
+- 🔮 **Craftable Parkour Wand** (see [recipe](https://github.com/roawwx/Survival-Parkour-Wand?tab=readme-ov-file#%EF%B8%8F-recipe) below).
 - 🌀 **Procedural path generation**:
   - Never backwards, always fair.
   - All jumps are within survival reach (≤4 blocks horizontally, ±1 vertically).
