@@ -54,16 +54,6 @@ Falling ends the run, but as long as you stay up, the path will keep growing! �
 
 ![Parkour Wand Recipe](images/2025-08-28_08.39.15.PNG)
 
----
-
-## 📸 Screenshots
-
-Mod Logo:  
-![SPW Logo](images/Survival Parkour Wand.png)
-
-*(add more in-game screenshots here if you want to showcase gameplay)*
-
----
 
 ## ⬇️ Download
 
