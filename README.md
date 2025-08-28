@@ -58,8 +58,7 @@ Falling ends the run, but as long as you stay up, the path will keep growing! �
 ## ⬇️ Download
 
 - [GitHub Releases](https://github.com/roawwx/Survival-Parkour-Wand/releases/tag/releases)  
-- [Modrinth (Under review)](https://modrinth.com/mod/survival-parkour-wand)  
-- [CurseForge (Under review)](https://legacy.curseforge.com/minecraft/mc-mods/survival-parkour-wand)  
+- (Modrinth / CurseForge — coming soon)
 
 ---
 
